@@ -11,6 +11,7 @@ int main()
 {
     FASTio;
     int n;
+    int h;
 
     cin >> n;
 
